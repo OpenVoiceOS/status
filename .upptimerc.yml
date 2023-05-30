@@ -16,7 +16,7 @@ sites:
     expectedStatusCodes:
       - 405
   - name: Speech-to-Text Strongthany
-    url: https://stt.strongthany.cc
+    url: https://stt.strongthany.cc/stt
     expectedStatusCodes:
       - 405
 
