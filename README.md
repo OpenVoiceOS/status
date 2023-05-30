@@ -1,12 +1,12 @@
-# [📈 Live Status](https://smartgic.github.io/status): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://openvoiceos.github.io/status): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [Smart'Gic](https://smartgic.io), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Open Voice OS](https://openvoiceos.org), powered by [Upptime](https://github.com/upptime/upptime).
 
-[![Uptime CI](https://github.com/smartgic/status/workflows/Uptime%20CI/badge.svg)](https://github.com/smartgic/status/actions?query=workflow%3A%22Uptime+CI%22)
-[![Response Time CI](https://github.com/smartgic/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/smartgic/status/actions?query=workflow%3A%22Response+Time+CI%22)
-[![Graphs CI](https://github.com/smartgic/status/workflows/Graphs%20CI/badge.svg)](https://github.com/smartgic/status/actions?query=workflow%3A%22Graphs+CI%22)
-[![Static Site CI](https://github.com/smartgic/status/workflows/Static%20Site%20CI/badge.svg)](https://github.com/smartgic/status/actions?query=workflow%3A%22Static+Site+CI%22)
-[![Summary CI](https://github.com/smartgic/status/workflows/Summary%20CI/badge.svg)](https://github.com/smartgic/status/actions?query=workflow%3A%22Summary+CI%22)
+[![Uptime CI](https://github.com/openvoiceos/status/workflows/Uptime%20CI/badge.svg)](https://github.com/openvoiceos/status/actions?query=workflow%3A%22Uptime+CI%22)
+[![Response Time CI](https://github.com/openvoiceos/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/openvoiceos/status/actions?query=workflow%3A%22Response+Time+CI%22)
+[![Graphs CI](https://github.com/openvoiceos/status/workflows/Graphs%20CI/badge.svg)](https://github.com/openvoiceos/status/actions?query=workflow%3A%22Graphs+CI%22)
+[![Static Site CI](https://github.com/openvoiceos/status/workflows/Static%20Site%20CI/badge.svg)](https://github.com/openvoiceos/status/actions?query=workflow%3A%22Static+Site+CI%22)
+[![Summary CI](https://github.com/openvoiceos/status/workflows/Summary%20CI/badge.svg)](https://github.com/openvoiceos/status/actions?query=workflow%3A%22Summary+CI%22)
 
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/smartgic/status/issues) as incident reports, [Actions](https://github.com/smartgic/status/actions) as uptime monitors, and [Pages](https://smartgic.github.io/status) for the status page.
 
@@ -24,10 +24,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://smartgic.github.io/upptime-status)
+[**Visit our status website →**](https://openvoiceos.github.io/upptime-status)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Smart'Gic](https://smartgic.io)
+- Code: [MIT](./LICENSE) © [Open Voice OS](https://openvoiceos.org)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
