@@ -1,48 +1,27 @@
 [
   {
-    "name": "TTS Open Voice OS",
-    "url": "https://tts.openvoice.os/api/healthcheck",
-    "icon": "https://mycroft.ai/wp-content/uploads/2022/06/Mimic_color_600px.png",
-    "slug": "tts-open-voice-os",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-05-30": 23,
-      "2023-05-29": 85
-    }
-  },
-  {
-    "name": "TTS Blue Systems",
+    "name": "Text-to-Speech Blue Systems",
     "url": "http://mycroft.blue-systems.com:59125/api/healthcheck",
     "icon": "https://mycroft.ai/wp-content/uploads/2022/06/Mimic_color_600px.png",
-    "slug": "tts-blue-systems",
+    "slug": "text-to-speech-blue-systems",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 360,
-    "timeWeek": 360,
-    "timeMonth": 360,
-    "timeYear": 360,
+    "time": 525,
+    "timeDay": 525,
+    "timeWeek": 525,
+    "timeMonth": 525,
+    "timeYear": 525,
     "dailyMinutesDown": {}
   },
   {
-    "name": "TTS Ziggyai",
+    "name": "Text-to-Speech Ziggyai",
     "url": "https://mimic3.ziggyai.online/api/healthcheck",
     "icon": "https://mycroft.ai/wp-content/uploads/2022/06/Mimic_color_600px.png",
-    "slug": "tts-ziggyai",
+    "slug": "text-to-speech-ziggyai",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -57,28 +36,28 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "TTS Smart'Gic",
+    "name": "Text-to-Speech Smart'Gic",
     "url": "https://tts.smartgic.io/mimic3/api/healthcheck",
     "icon": "https://mycroft.ai/wp-content/uploads/2022/06/Mimic_color_600px.png",
-    "slug": "tts-smart-gic",
+    "slug": "text-to-speech-smart-gic",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 340,
-    "timeWeek": 340,
-    "timeMonth": 340,
-    "timeYear": 340,
+    "time": 695,
+    "timeDay": 695,
+    "timeWeek": 695,
+    "timeMonth": 695,
+    "timeYear": 695,
     "dailyMinutesDown": {}
   },
   {
-    "name": "STT Open Voice OS",
+    "name": "Speech-to-Text Open Voice OS",
     "url": "https://stt.openvoice.os/stt",
     "icon": "https://icons.duckduckgo.com/ip3/stt.openvoice.os.ico",
-    "slug": "stt-open-voice-os",
+    "slug": "speech-to-text-open-voice-os",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
@@ -91,8 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-30": 23,
-      "2023-05-29": 85
+      "2023-05-30": 26
     }
   }
 ]
