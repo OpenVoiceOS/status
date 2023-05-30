@@ -13,6 +13,8 @@ sites:
     icon: https://mycroft.ai/wp-content/uploads/2022/06/Mimic_color_600px.png
   - name: Speech-to-Text Open Voice OS
     url: https://stt.openvoice.os/stt
+    expectedStatusCodes:
+      - 405
 
 status-website:
   baseUrl: /status
