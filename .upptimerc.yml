@@ -15,6 +15,10 @@ sites:
     url: https://stt.openvoice.os/stt
     expectedStatusCodes:
       - 405
+  - name: Speech-to-Text Strongthany
+    url: https://stt.strongthany.cc
+    expectedStatusCodes:
+      - 405
 
 status-website:
   baseUrl: /status
