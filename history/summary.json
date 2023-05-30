@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 525,
-    "timeDay": 525,
-    "timeWeek": 525,
-    "timeMonth": 525,
-    "timeYear": 525,
+    "time": 470,
+    "timeDay": 470,
+    "timeWeek": 470,
+    "timeMonth": 470,
+    "timeYear": 470,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 218,
-    "timeWeek": 218,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "time": 228,
+    "timeDay": 228,
+    "timeWeek": 228,
+    "timeMonth": 228,
+    "timeYear": 228,
     "dailyMinutesDown": {}
   },
   {
@@ -46,17 +46,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 695,
-    "timeDay": 695,
-    "timeWeek": 695,
-    "timeMonth": 695,
-    "timeYear": 695,
+    "time": 700,
+    "timeDay": 700,
+    "timeWeek": 700,
+    "timeMonth": 700,
+    "timeYear": 700,
     "dailyMinutesDown": {}
   },
   {
     "name": "Speech-to-Text Open Voice OS",
     "url": "https://stt.openvoice.os/stt",
-    "icon": "https://icons.duckduckgo.com/ip3/stt.openvoice.os.ico",
+    "icon": "https://i.ibb.co/Hg85Z3s/text-to-speech.png",
     "slug": "speech-to-text-open-voice-os",
     "status": "down",
     "uptime": "0.00%",
@@ -70,13 +70,13 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-30": 60
+      "2023-05-30": 885
     }
   },
   {
     "name": "Speech-to-Text Strongthany",
     "url": "https://stt.strongthany.cc/stt",
-    "icon": "https://icons.duckduckgo.com/ip3/stt.strongthany.cc.ico",
+    "icon": "https://i.ibb.co/Hg85Z3s/text-to-speech.png",
     "slug": "speech-to-text-strongthany",
     "status": "down",
     "uptime": "0.00%",
@@ -84,13 +84,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 289,
-    "timeDay": 289,
-    "timeWeek": 289,
-    "timeMonth": 289,
-    "timeYear": 289,
+    "time": 296,
+    "timeDay": 296,
+    "timeWeek": 296,
+    "timeMonth": 296,
+    "timeYear": 296,
     "dailyMinutesDown": {
-      "2023-05-30": 10
+      "2023-05-30": 835
     }
   }
 ]
