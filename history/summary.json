@@ -55,7 +55,7 @@
   },
   {
     "name": "Speech-to-Text Open Voice OS",
-    "url": "https://stt.openvoiceos.org/stt",
+    "url": "https://stt.openvoiceos.org/status",
     "icon": "https://i.ibb.co/Hg85Z3s/text-to-speech.png",
     "slug": "speech-to-text-open-voice-os",
     "status": "down",
@@ -64,13 +64,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 527,
+    "timeDay": 527,
+    "timeWeek": 527,
+    "timeMonth": 527,
+    "timeYear": 527,
     "dailyMinutesDown": {
-      "2023-05-31": 670,
+      "2023-05-31": 679,
       "2023-05-30": 1386
     }
   },
@@ -91,7 +91,7 @@
     "timeMonth": 256,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2023-05-31": 670,
+      "2023-05-31": 679,
       "2023-05-30": 1336
     }
   }
