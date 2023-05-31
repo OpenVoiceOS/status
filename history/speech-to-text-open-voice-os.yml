@@ -1,7 +1,7 @@
 url: https://stt.openvoiceos.org/status
-status: down
-code: 502
-responseTime: 570
-lastUpdated: 2023-05-31T11:18:49.761Z
+status: up
+code: 200
+responseTime: 397
+lastUpdated: 2023-05-31T11:27:45.315Z
 startTime: Tue May 30 2023 01:20:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
