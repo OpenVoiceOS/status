@@ -12,10 +12,8 @@ sites:
     url: https://tts.smartgic.io/mimic3/api/healthcheck
     icon: https://mycroft.ai/wp-content/uploads/2022/06/Mimic_color_600px.png
   - name: Speech-to-Text Open Voice OS
-    url: https://stt.openvoiceos.org/stt
+    url: https://stt.openvoiceos.org/status
     icon: https://i.ibb.co/Hg85Z3s/text-to-speech.png
-    expectedStatusCodes:
-      - 405
   - name: Speech-to-Text Strongthany
     url: https://stt.strongthany.cc/stt
     icon: https://i.ibb.co/Hg85Z3s/text-to-speech.png    
