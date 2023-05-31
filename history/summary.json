@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 470,
-    "timeDay": 470,
-    "timeWeek": 470,
-    "timeMonth": 470,
-    "timeYear": 470,
+    "time": 416,
+    "timeDay": 416,
+    "timeWeek": 416,
+    "timeMonth": 416,
+    "timeYear": 416,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 228,
-    "timeWeek": 228,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "time": 237,
+    "timeDay": 237,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {}
   },
   {
@@ -46,16 +46,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 700,
-    "timeDay": 700,
-    "timeWeek": 700,
-    "timeMonth": 700,
-    "timeYear": 700,
+    "time": 627,
+    "timeDay": 627,
+    "timeWeek": 627,
+    "timeMonth": 627,
+    "timeYear": 627,
     "dailyMinutesDown": {}
   },
   {
     "name": "Speech-to-Text Open Voice OS",
-    "url": "https://stt.openvoice.os/stt",
+    "url": "https://stt.openvoiceos.org/stt",
     "icon": "https://i.ibb.co/Hg85Z3s/text-to-speech.png",
     "slug": "speech-to-text-open-voice-os",
     "status": "down",
@@ -70,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-30": 885
+      "2023-05-31": 24,
+      "2023-05-30": 1386
     }
   },
   {
@@ -84,13 +85,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 296,
-    "timeDay": 296,
-    "timeWeek": 296,
-    "timeMonth": 296,
-    "timeYear": 296,
+    "time": 256,
+    "timeDay": 256,
+    "timeWeek": 256,
+    "timeMonth": 256,
+    "timeYear": 256,
     "dailyMinutesDown": {
-      "2023-05-30": 835
+      "2023-05-31": 24,
+      "2023-05-30": 1336
     }
   }
 ]
