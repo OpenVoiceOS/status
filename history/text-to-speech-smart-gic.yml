@@ -1,7 +1,7 @@
 url: https://tts.smartgic.io/mimic3/api/healthcheck
 status: up
 code: 200
-responseTime: 671
-lastUpdated: 2023-05-31T23:08:55.863Z
+responseTime: 512
+lastUpdated: 2023-06-01T23:09:30.691Z
 startTime: Tue May 30 2023 01:20:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
