@@ -14,11 +14,6 @@ sites:
   - name: Speech-to-Text Open Voice OS
     url: https://stt.openvoiceos.org/status
     icon: https://i.ibb.co/Hg85Z3s/text-to-speech.png
-  - name: Speech-to-Text Strongthany
-    url: https://stt.strongthany.cc/stt
-    icon: https://i.ibb.co/Hg85Z3s/text-to-speech.png    
-    expectedStatusCodes:
-      - 405
 
 status-website:
   baseUrl: /status
