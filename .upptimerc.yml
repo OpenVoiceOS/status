@@ -8,22 +8,32 @@ sites:
   - name: Text-to-Speech Ziggyai
     url: https://mimic3.ziggyai.online/api/healthcheck
     icon: https://mycroft.ai/wp-content/uploads/2022/06/Mimic_color_600px.png
+    assignees:
+      - builderjer
   - name: Text-to-Speech Smart'Gic
     url: https://tts.smartgic.io/mimic3/api/healthcheck
     icon: https://mycroft.ai/wp-content/uploads/2022/06/Mimic_color_600px.png
+    assignees:
+      - goldyfruit
   - name: Speech-to-Text Open Voice OS
     url: https://stt.openvoiceos.org/status
     icon: https://i.ibb.co/Hg85Z3s/text-to-speech.png
+    assignees:
+      - j1nx
+      - JarbasAl
 
 status-website:
+  theme: dark
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://openvoiceos.org/wp-content/uploads/2021/04/ovos-egg.png
+  name: Status Page
   introTitle: "Open Voice OS components status"
   introMessage: "Text-to-Speech and Speech-to-Text community servers"
   navbar:
     - title: Status
       href: /
+    - title: Open Voice OS
+      href: https://openvoiceos.org
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 # Upptime also supports notifications, assigning issues, and more
