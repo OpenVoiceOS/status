@@ -21,6 +21,11 @@ sites:
     assignees:
       - j1nx
       - JarbasAl
+  - name: Speech-to-Text Ziggyai
+    url: https://fasterwhisper.ziggyai.online
+    icon: https://i.ibb.co/Hg85Z3s/text-to-speech.png
+    assignees:
+      - builderjer
 
 status-website:
   theme: dark
