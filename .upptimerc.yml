@@ -36,7 +36,7 @@ status-website:
   introMessage: "Text-to-Speech and Speech-to-Text community servers"
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: Open Voice OS
       href: https://openvoiceos.org
     - title: GitHub
