@@ -1,7 +1,7 @@
 url: https://mimic3.ziggyai.online/api/healthcheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-06-06T13:08:32.362Z
+status: up
+code: 200
+responseTime: 249
+lastUpdated: 2023-06-06T13:33:52.741Z
 startTime: Tue May 30 2023 01:20:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
