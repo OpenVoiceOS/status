@@ -2,26 +2,31 @@ owner: openvoiceos
 repo: status
 
 sites:
-  - name: Text-to-Speech Blue Systems
+  - name: Text-to-Speech - Mimic3 - Blue Systems
     url: http://mycroft.blue-systems.com:59125/api/healthcheck
     icon: https://mycroft.ai/wp-content/uploads/2022/06/Mimic_color_600px.png
-  - name: Text-to-Speech Ziggyai
+  - name: Text-to-Speech - Mimic3 - Ziggyai
     url: https://mimic3.ziggyai.online/api/healthcheck
     icon: https://mycroft.ai/wp-content/uploads/2022/06/Mimic_color_600px.png
     assignees:
       - builderjer
-  - name: Text-to-Speech Smart'Gic
+  - name: Text-to-Speech - Piper - Ziggyai
+    url: https://pipertts.ziggyai.online/status
+    icon: https://github.com/rhasspy/piper/raw/master/etc/logo.png
+    assignees:
+      - builderjer
+  - name: Text-to-Speech - Mimic3 - Smart'Gic
     url: https://tts.smartgic.io/mimic3/api/healthcheck
     icon: https://mycroft.ai/wp-content/uploads/2022/06/Mimic_color_600px.png
     assignees:
       - goldyfruit
-  - name: Speech-to-Text Open Voice OS
+  - name: Speech-to-Text - Faster Whisper - Open Voice OS
     url: https://stt.openvoiceos.org/status
     icon: https://i.ibb.co/Hg85Z3s/text-to-speech.png
     assignees:
       - j1nx
       - JarbasAl
-  - name: Speech-to-Text Ziggyai
+  - name: Speech-to-Text - Faster Whisper - Ziggyai
     url: https://fasterwhisper.ziggyai.online/status
     icon: https://i.ibb.co/Hg85Z3s/text-to-speech.png
     assignees:
