@@ -22,19 +22,19 @@
     "url": "https://mimic3.ziggyai.online/api/healthcheck",
     "icon": "https://mycroft.ai/wp-content/uploads/2022/06/Mimic_color_600px.png",
     "slug": "text-to-speech-mimic3-ziggyai",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "status": "down",
+    "uptime": "87.54%",
+    "uptimeDay": "65.75%",
+    "uptimeWeek": "87.54%",
+    "uptimeMonth": "87.54%",
+    "uptimeYear": "87.54%",
     "time": 226,
     "timeDay": 224,
     "timeWeek": 226,
     "timeMonth": 226,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2023-06-22": 11
+      "2023-06-22": 494
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://pipertts.ziggyai.online/status",
     "icon": "https://github.com/rhasspy/piper/raw/master/etc/logo.png",
     "slug": "text-to-speech-piper-ziggyai",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "status": "down",
+    "uptime": "87.57%",
+    "uptimeDay": "65.82%",
+    "uptimeWeek": "87.57%",
+    "uptimeMonth": "87.57%",
+    "uptimeYear": "87.57%",
     "time": 335,
     "timeDay": 387,
     "timeWeek": 335,
     "timeMonth": 335,
     "timeYear": 335,
     "dailyMinutesDown": {
-      "2023-06-22": 10
+      "2023-06-22": 492
     }
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://i.ibb.co/Hg85Z3s/text-to-speech.png",
     "slug": "speech-to-text-faster-whisper-ziggyai",
     "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.71%",
+    "uptime": "87.59%",
+    "uptimeDay": "65.88%",
+    "uptimeWeek": "87.59%",
+    "uptimeMonth": "87.59%",
+    "uptimeYear": "87.59%",
     "time": 223,
     "timeDay": 250,
     "timeWeek": 223,
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2023-06-22": 9
+      "2023-06-22": 491
     }
   }
 ]
