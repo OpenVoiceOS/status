@@ -6,7 +6,7 @@ sites:
     url: http://mycroft.blue-systems.com:59125/api/healthcheck
     icon: https://mycroft.ai/wp-content/uploads/2022/06/Mimic_color_600px.png
   - name: Text-to-Speech - Mimic3 - Ziggyai
-    url: https://mimic3.ziggyai.online/api/healthcheck
+    url: https://mimic3.ziggyai.online/status
     icon: https://mycroft.ai/wp-content/uploads/2022/06/Mimic_color_600px.png
     assignees:
       - builderjer
