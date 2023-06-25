@@ -16,7 +16,7 @@ sites:
     assignees:
       - builderjer
   - name: Text-to-Speech - Mimic3 - Smart'Gic
-    url: https://tts.smartgic.io/mimic3/api/healthcheck
+    url: https://tts.smartgic.io/mimic3/status
     icon: https://mycroft.ai/wp-content/uploads/2022/06/Mimic_color_600px.png
     assignees:
       - goldyfruit
