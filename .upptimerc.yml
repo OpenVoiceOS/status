@@ -20,6 +20,11 @@ sites:
     icon: https://mycroft.ai/wp-content/uploads/2022/06/Mimic_color_600px.png
     assignees:
       - goldyfruit
+  - name: Text-to-Speech - Piper - Smart'Gic
+    url: https://tts.smartgic.io/piper/status
+    icon: https://github.com/rhasspy/piper/raw/master/etc/logo.png
+    assignees:
+      - goldyfruit      
   - name: Speech-to-Text - Faster Whisper - Open Voice OS
     url: https://stt.openvoiceos.org/status
     icon: https://i.ibb.co/Hg85Z3s/text-to-speech.png
