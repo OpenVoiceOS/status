@@ -15,7 +15,7 @@ sites:
   - name: Text-to-Speech - Mimic - Smart'Gic
     url: https://tts.smartgic.io/mimic/status
     assignees:
-      - goldyfruit      
+      - goldyfruit
   - name: Text-to-Speech - Mimic3 - Smart'Gic
     url: https://tts.smartgic.io/mimic3/status
     assignees:
@@ -23,7 +23,11 @@ sites:
   - name: Text-to-Speech - Piper - Smart'Gic
     url: https://tts.smartgic.io/piper/status
     assignees:
-      - goldyfruit      
+      - goldyfruit
+  - name: Text-to-Speech - SAM - Smart'Gic
+    url: https://tts.smartgic.io/sam/status
+    assignees:
+      - goldyfruit          
   - name: Speech-to-Text - Faster Whisper - Open Voice OS
     url: https://stt.openvoiceos.org/status
     assignees:
