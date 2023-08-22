@@ -37,6 +37,15 @@ sites:
     url: https://fasterwhisper.ziggyai.online/status
     assignees:
       - builderjer
+  - name: Translator - NLLB - Smart'Gic
+    url: https://translator.smartgic.io/nllb/translate/en/fr/hello%20world
+    assignees:
+      - goldyfruit
+  - name: Translator - NLLB - Open Voice OS
+    url: https://nllb.openvoiceos.org/translate/en/pt/hello%20world
+    assignees:
+      - j1nx
+      - JarbasAl
 
 status-website:
   theme: dark
