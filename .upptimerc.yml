@@ -38,11 +38,11 @@ sites:
     assignees:
       - builderjer
   - name: Translator - NLLB - Smart'Gic
-    url: https://translator.smartgic.io/nllb/translate/en/fr/hello%20world
+    url: https://translator.smartgic.io/nllb/status
     assignees:
       - goldyfruit
   - name: Translator - NLLB - Open Voice OS
-    url: https://nllb.openvoiceos.org/translate/en/pt/hello%20world
+    url: https://nllb.openvoiceos.org/status
     assignees:
       - j1nx
       - JarbasAl
@@ -53,7 +53,7 @@ status-website:
   logoUrl: https://openvoiceos.org/wp-content/uploads/2021/04/ovos-egg.png
   name: Status Page
   introTitle: "Open Voice OS components status"
-  introMessage: "Text-to-Speech and Speech-to-Text community servers"
+  introMessage: "Community servers"
   navbar:
     - title: Status
       href: /status
