@@ -6,10 +6,12 @@ sites:
     url: http://mycroft.blue-systems.com:59125/api/healthcheck
   - name: Text-to-Speech - Mimic3 - Ziggyai
     url: https://mimic3.ziggyai.online/status
+    maxResponseTime: 60000
     assignees:
       - builderjer
   - name: Text-to-Speech - Piper - Ziggyai
     url: https://pipertts.ziggyai.online/status
+    maxResponseTime: 60000    
     assignees:
       - builderjer
   - name: Text-to-Speech - Mimic - Smart'Gic
@@ -35,6 +37,7 @@ sites:
       - JarbasAl
   - name: Speech-to-Text - Faster Whisper - Ziggyai
     url: https://fasterwhisper.ziggyai.online/status
+    maxResponseTime: 60000    
     assignees:
       - builderjer
   - name: Translator - NLLB - Smart'Gic
