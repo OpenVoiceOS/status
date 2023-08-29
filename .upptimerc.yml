@@ -35,6 +35,7 @@ sites:
     assignees:
       - j1nx
       - JarbasAl
+      - ChanceNCounter
   - name: Speech-to-Text - Faster Whisper - Ziggyai
     url: https://fasterwhisper.ziggyai.online/status
     maxResponseTime: 60000    
@@ -49,6 +50,7 @@ sites:
     assignees:
       - j1nx
       - JarbasAl
+      - ChanceNCounter
 
 status-website:
   theme: dark
