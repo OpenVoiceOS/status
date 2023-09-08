@@ -1,7 +1,7 @@
 url: https://nllb.openvoiceos.org/status
-status: up
-code: 200
-responseTime: 221
-lastUpdated: 2023-09-07T23:09:33.555Z
+status: down
+code: 502
+responseTime: 219
+lastUpdated: 2023-09-08T06:49:25.777Z
 startTime: Tue Aug 22 2023 20:02:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
