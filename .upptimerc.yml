@@ -51,6 +51,11 @@ sites:
       - j1nx
       - JarbasAl
       - ChanceNCounter
+  - name: Translator - NLLB - Ziggyai
+    url: https://ovosnllb.ziggyai.online/status
+    maxResponseTime: 60000
+    assignees:
+      - builderjer
 
 status-website:
   theme: dark
