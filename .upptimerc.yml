@@ -41,6 +41,11 @@ sites:
     maxResponseTime: 60000    
     assignees:
       - builderjer
+  - name: Speech-to-Text - Faster Whisper (large-v2) - Smart'Gic
+    url: https://stt.smartgic.io/fasterwhisper/status
+    maxResponseTime: 60000    
+    assignees:
+      - builderjer      
   - name: Translator - NLLB - Smart'Gic
     url: https://translator.smartgic.io/nllb/status
     assignees:
