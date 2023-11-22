@@ -27,7 +27,7 @@ sites:
   - name: Text-to-Speech - SAM - Smart'Gic
     url: https://tts.smartgic.io/sam/status
     assignees:
-      - goldyfruit          
+      - goldyfruit
   - name: Speech-to-Text - Faster Whisper - Open Voice OS
     url: https://stt.openvoiceos.org/status
     assignees:
@@ -39,10 +39,14 @@ sites:
     maxResponseTime: 60000    
     assignees:
       - builderjer
-  - name: Speech-to-Text - Faster Whisper (large-v2) - Smart'Gic
+  - name: Speech-to-Text - Faster Whisper - Smart'Gic
     url: https://stt.smartgic.io/fasterwhisper/status
     assignees:
-      - goldyfruit      
+      - goldyfruit
+  - name: Speech-to-Text - Chromium - Smart'Gic
+    url: https://stt.smartgic.io/chromium/status
+    assignees:
+      - goldyfruit
   - name: Translator - NLLB - Smart'Gic
     url: https://translator.smartgic.io/nllb/status
     assignees:
