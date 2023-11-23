@@ -47,6 +47,10 @@ sites:
     url: https://stt.smartgic.io/chromium/status
     assignees:
       - goldyfruit
+  - name: Speech-to-Text - NeMo - Smart'Gic
+    url: https://stt.smartgic.io/nemo/status
+    assignees:
+      - goldyfruit      
   - name: Translator - NLLB - Smart'Gic
     url: https://translator.smartgic.io/nllb/status
     assignees:
