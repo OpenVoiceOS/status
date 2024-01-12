@@ -28,12 +28,6 @@ sites:
     url: https://tts.smartgic.io/sam/status
     assignees:
       - goldyfruit
-  - name: Speech-to-Text - Faster Whisper - Open Voice OS
-    url: https://stt.openvoiceos.org/status
-    assignees:
-      - j1nx
-      - JarbasAl
-      - ChanceNCounter
   - name: Speech-to-Text - Faster Whisper - Ziggyai
     url: https://fasterwhisper.ziggyai.online/status
     maxResponseTime: 60000    
