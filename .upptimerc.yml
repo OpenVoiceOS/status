@@ -28,6 +28,18 @@ sites:
     url: https://tts.smartgic.io/sam/status
     assignees:
       - goldyfruit
+  - name: Text-to-Speech - Coqui - Neon AI
+    url: https://coqui.neonaibeta.com/status
+    assignees:
+      - NeonDaniel
+  - name: Text-to-Speech - Coqui 2 - Neon AI
+    url: https://coqui.neonaialpha.com/status
+    assignees:
+      - NeonDaniel
+  - name: Text-to-Speech - Coqui 3 - Neon AI
+    url: https://coqui.neonaiservices.com/status
+    assignees:
+      - NeonDaniel      
   - name: Speech-to-Text - Faster Whisper - Ziggyai
     url: https://fasterwhisper.ziggyai.online/status
     maxResponseTime: 60000    
@@ -38,17 +50,21 @@ sites:
     assignees:
       - goldyfruit
   - name: Speech-to-Text - Chromium - Smart'Gic
-    url: https://stt.smartgic.io/chromium/status
+    url: https://stt.smartgic.io/https://coqui.neonaibeta.com/chromium/status
     assignees:
       - goldyfruit
   - name: Speech-to-Text - NeMo - Smart'Gic
     url: https://stt.smartgic.io/nemo/status
     assignees:
-      - goldyfruit      
+      - goldyfruit
+  - name: Speech-to-Text - NeMo - Neon AI
+    url: https://nemo.neonaialpha.com/status
+    assignees:
+      - NeonDaniel
   - name: Translator - NLLB - Smart'Gic
     url: https://translator.smartgic.io/nllb/status
     assignees:
-      - goldyfruit
+      - goldyfruit  
   - name: Translator - NLLB - Open Voice OS
     url: https://nllb.openvoiceos.org/status
     assignees:
