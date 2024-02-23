@@ -50,7 +50,7 @@ sites:
     assignees:
       - goldyfruit
   - name: Speech-to-Text - Chromium - Smart'Gic
-    url: https://stt.smartgic.io/https://coqui.neonaibeta.com/chromium/status
+    url: https://stt.smartgic.io/chromium/status
     assignees:
       - goldyfruit
   - name: Speech-to-Text - NeMo - Smart'Gic
