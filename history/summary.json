@@ -384,19 +384,19 @@
     "url": "https://coqui.neonaibeta.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/coqui.neonaibeta.com.ico",
     "slug": "text-to-speech-coqui-neon-ai",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "90.78%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.74%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "91.36%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.76%",
     "time": 384,
     "timeDay": 814,
     "timeWeek": 570,
     "timeMonth": 414,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2024-03-28": 134
+      "2024-03-28": 125
     }
   },
   {
@@ -404,19 +404,19 @@
     "url": "https://coqui.neonaialpha.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/coqui.neonaialpha.com.ico",
     "slug": "text-to-speech-coqui-2-neon-ai",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "91.93%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.77%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "92.52%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.79%",
     "time": 237,
     "timeDay": 252,
     "timeWeek": 222,
     "timeMonth": 243,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2024-03-28": 117
+      "2024-03-28": 108
     }
   },
   {
@@ -424,19 +424,19 @@
     "url": "https://coqui.neonaiservices.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/coqui.neonaiservices.com.ico",
     "slug": "text-to-speech-coqui-3-neon-ai",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "91.92%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.77%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "92.51%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.79%",
     "time": 414,
     "timeDay": 983,
     "timeWeek": 650,
     "timeMonth": 453,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2024-03-28": 117
+      "2024-03-28": 108
     }
   },
   {
@@ -595,19 +595,19 @@
     "url": "https://nemo.neonaialpha.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/nemo.neonaialpha.com.ico",
     "slug": "speech-to-text-ne-mo-neon-ai",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "91.92%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.74%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "92.51%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.76%",
     "time": 233,
     "timeDay": 236,
     "timeWeek": 207,
     "timeMonth": 237,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-03-28": 117,
+      "2024-03-28": 108,
       "2024-02-28": 16
     }
   },
