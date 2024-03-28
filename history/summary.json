@@ -384,9 +384,9 @@
     "url": "https://coqui.neonaibeta.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/coqui.neonaibeta.com.ico",
     "slug": "text-to-speech-coqui-neon-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -395,16 +395,18 @@
     "timeWeek": 196,
     "timeMonth": 229,
     "timeYear": 226,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-28": 0
+    }
   },
   {
     "name": "Text-to-Speech - Coqui 2 - Neon AI",
     "url": "https://coqui.neonaialpha.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/coqui.neonaialpha.com.ico",
     "slug": "text-to-speech-coqui-2-neon-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -413,16 +415,18 @@
     "timeWeek": 191,
     "timeMonth": 239,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-28": 0
+    }
   },
   {
     "name": "Text-to-Speech - Coqui 3 - Neon AI",
     "url": "https://coqui.neonaiservices.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/coqui.neonaiservices.com.ico",
     "slug": "text-to-speech-coqui-3-neon-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -431,7 +435,9 @@
     "timeWeek": 175,
     "timeMonth": 221,
     "timeYear": 220,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-28": 0
+    }
   },
   {
     "name": "Speech-to-Text - Faster Whisper - Ziggyai",
@@ -563,11 +569,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stt.smartgic.io.ico",
     "slug": "speech-to-text-ne-mo-smart-gic",
     "status": "up",
-    "uptime": "94.66%",
+    "uptime": "94.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.66%",
+    "uptimeYear": "94.67%",
     "time": 58,
     "timeDay": 39,
     "timeWeek": 60,
@@ -589,9 +595,9 @@
     "url": "https://nemo.neonaialpha.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/nemo.neonaialpha.com.ico",
     "slug": "speech-to-text-ne-mo-neon-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -601,6 +607,7 @@
     "timeMonth": 232,
     "timeYear": 233,
     "dailyMinutesDown": {
+      "2024-03-28": 0,
       "2024-02-28": 16
     }
   },
