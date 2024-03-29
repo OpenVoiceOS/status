@@ -1,7 +1,7 @@
 url: https://coqui.neonaibeta.com/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-29T23:28:55.643Z
+status: up
+code: 200
+responseTime: 258
+lastUpdated: 2024-03-29T23:37:29.917Z
 startTime: Thu Feb 22 2024 15:33:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
