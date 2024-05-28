@@ -1,7 +1,7 @@
 url: https://ovosnllb.ziggyai.online/status
-status: up
-code: 200
-responseTime: 212
-lastUpdated: 2024-05-27T23:10:21.887Z
+status: down
+code: 502
+responseTime: 228
+lastUpdated: 2024-05-28T13:25:33.170Z
 startTime: Mon Sep 18 2023 01:58:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
