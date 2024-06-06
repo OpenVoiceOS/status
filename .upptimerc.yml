@@ -49,6 +49,10 @@ sites:
     url: https://stt.smartgic.io/fasterwhisper/status
     assignees:
       - goldyfruit
+  - name: Speech-to-Text - Faster Whisper - Neon AI
+    url: https://whisper.neonaiservices.com/status
+    assignees:
+      - NeonDaniel    
   - name: Speech-to-Text - Chromium - Smart'Gic
     url: https://stt.smartgic.io/chromium/status
     assignees:
