@@ -28,6 +28,10 @@ sites:
     url: https://tts.smartgic.io/sam/status
     assignees:
       - goldyfruit
+  - name: Text-to-Speech - Maxta - Smart'Gic
+    url: https://tts.smartgic.io/maxta/status
+    assignees:
+      - goldyfruit      
   - name: Text-to-Speech - Coqui - Neon AI
     url: https://coqui.neonaibeta.com/status
     assignees:
