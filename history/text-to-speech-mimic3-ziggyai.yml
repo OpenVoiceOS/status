@@ -1,7 +1,7 @@
 url: https://mimic3.ziggyai.online/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-02T09:16:28.062Z
+status: up
+code: 200
+responseTime: 6674
+lastUpdated: 2024-08-02T10:14:44.405Z
 startTime: 2023-06-19T21:28:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
