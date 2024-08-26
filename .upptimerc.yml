@@ -12,6 +12,11 @@ sites:
     maxResponseTime: 60000    
     assignees:
       - builderjer
+  - name: Text-to-Speech - Matxa - Ziggyai
+    url: https://matxa.ziggyai.online/status
+    maxResponseTime: 60000    
+    assignees:
+      - builderjer      
   - name: Text-to-Speech - Mimic - Smart'Gic
     url: https://tts.smartgic.io/mimic/status
     assignees:
@@ -49,6 +54,11 @@ sites:
     maxResponseTime: 60000    
     assignees:
       - builderjer
+  - name: Speech-to-Text - Citrinet - Ziggyai
+    url: https://citrinetstt.ziggyai.online/status
+    maxResponseTime: 60000    
+    assignees:
+      - builderjer      
   - name: Speech-to-Text - Faster Whisper - Smart'Gic
     url: https://stt.smartgic.io/fasterwhisper/status
     assignees:
@@ -63,6 +73,10 @@ sites:
       - goldyfruit
   - name: Speech-to-Text - NeMo - Smart'Gic
     url: https://stt.smartgic.io/nemo/status
+    assignees:
+      - goldyfruit
+  - name: Speech-to-Text - Citrinet - Smart'Gic
+    url: https://stt.smartgic.io/citrinet/status
     assignees:
       - goldyfruit
   - name: Speech-to-Text - NeMo - Neon AI
