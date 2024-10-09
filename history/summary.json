@@ -85,7 +85,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pipertts.ziggyai.online.ico",
     "slug": "text-to-speech-piper-ziggyai",
     "status": "up",
-    "uptime": "95.34%",
+    "uptime": "95.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.40%",
@@ -864,7 +864,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.68%",
+    "uptimeYear": "83.70%",
     "time": 432,
     "timeDay": 296,
     "timeWeek": 420,
@@ -932,8 +932,7 @@
       "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
-      "2023-10-21": 746,
-      "2023-10-10": 49
+      "2023-10-21": 746
     }
   },
   {
