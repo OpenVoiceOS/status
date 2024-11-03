@@ -1,7 +1,7 @@
 url: https://stt.smartgic.io/chromium/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-03T20:53:51.402Z
+status: up
+code: 200
+responseTime: 142
+lastUpdated: 2024-11-03T21:21:40.241Z
 startTime: 2023-11-22T23:10:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
