@@ -649,19 +649,19 @@
     "url": "https://ainastt.ziggyai.online/status",
     "icon": "https://icons.duckduckgo.com/ip3/ainastt.ziggyai.online.ico",
     "slug": "speech-to-text-aina-ziggyai",
-    "status": "down",
-    "uptime": "97.88%",
-    "uptimeDay": "97.88%",
-    "uptimeWeek": "97.88%",
-    "uptimeMonth": "97.88%",
-    "uptimeYear": "97.88%",
-    "time": 232,
-    "timeDay": 232,
-    "timeWeek": 232,
-    "timeMonth": 232,
-    "timeYear": 232,
+    "status": "up",
+    "uptime": "92.81%",
+    "uptimeDay": "92.81%",
+    "uptimeWeek": "92.81%",
+    "uptimeMonth": "92.81%",
+    "uptimeYear": "92.81%",
+    "time": 278,
+    "timeDay": 278,
+    "timeWeek": 278,
+    "timeMonth": 278,
+    "timeYear": 278,
     "dailyMinutesDown": {
-      "2024-11-23": 2
+      "2024-11-23": 7
     }
   },
   {
@@ -858,19 +858,19 @@
     "url": "https://stt.smartgic.io/aina/status",
     "icon": "https://icons.duckduckgo.com/ip3/stt.smartgic.io.ico",
     "slug": "speech-to-text-aina-smart-gic",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.36%",
+    "status": "up",
+    "uptime": "94.27%",
+    "uptimeDay": "94.27%",
+    "uptimeWeek": "94.27%",
+    "uptimeMonth": "94.27%",
+    "uptimeYear": "94.27%",
     "time": 28,
     "timeDay": 28,
     "timeWeek": 28,
     "timeMonth": 28,
     "timeYear": 28,
     "dailyMinutesDown": {
-      "2024-11-23": 1
+      "2024-11-23": 6
     }
   },
   {
