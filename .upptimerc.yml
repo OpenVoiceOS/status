@@ -58,6 +58,11 @@ sites:
     url: https://citrinetstt.ziggyai.online/status
     maxResponseTime: 60000    
     assignees:
+      - builderjer
+  - name: Speech-to-Text - AINA - Ziggyai
+    url: https://ainastt.ziggyai.online/status
+    maxResponseTime: 60000    
+    assignees:
       - builderjer      
   - name: Speech-to-Text - Faster Whisper - Smart'Gic
     url: https://stt.smartgic.io/fasterwhisper/status
@@ -75,6 +80,10 @@ sites:
     url: https://stt.smartgic.io/nemo/status
     assignees:
       - goldyfruit
+  - name: Speech-to-Text - AINA - Smart'Gic
+    url: https://stt.smartgic.io/aina/status
+    assignees:
+      - goldyfruit      
   - name: Speech-to-Text - Citrinet - Smart'Gic
     url: https://stt.smartgic.io/citrinet/status
     assignees:
