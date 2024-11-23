@@ -649,18 +649,20 @@
     "url": "https://ainastt.ziggyai.online/status",
     "icon": "https://icons.duckduckgo.com/ip3/ainastt.ziggyai.online.ico",
     "slug": "speech-to-text-aina-ziggyai",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.88%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "97.88%",
+    "uptimeYear": "97.88%",
     "time": 232,
     "timeDay": 232,
     "timeWeek": 232,
     "timeMonth": 232,
     "timeYear": 232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-23": 2
+    }
   },
   {
     "name": "Speech-to-Text - Faster Whisper - Smart'Gic",
@@ -668,7 +670,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/stt.smartgic.io.ico",
     "slug": "speech-to-text-faster-whisper-smart-gic",
     "status": "up",
-    "uptime": "97.11%",
+    "uptime": "97.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.73%",
@@ -856,18 +858,20 @@
     "url": "https://stt.smartgic.io/aina/status",
     "icon": "https://icons.duckduckgo.com/ip3/stt.smartgic.io.ico",
     "slug": "speech-to-text-aina-smart-gic",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 28,
     "timeDay": 28,
     "timeWeek": 28,
     "timeMonth": 28,
     "timeYear": 28,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-23": 1
+    }
   },
   {
     "name": "Speech-to-Text - Citrinet - Smart'Gic",
