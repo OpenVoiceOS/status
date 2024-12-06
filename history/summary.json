@@ -77,8 +77,7 @@
       "2024-01-01": 18,
       "2023-12-30": 144,
       "2023-12-13": 327,
-      "2023-12-10": 178,
-      "2023-12-07": 16
+      "2023-12-10": 178
     }
   },
   {
@@ -264,8 +263,7 @@
       "2024-01-05": 563,
       "2024-01-04": 67,
       "2024-01-02": 27,
-      "2023-12-13": 471,
-      "2023-12-07": 25
+      "2023-12-13": 471
     }
   },
   {
@@ -438,19 +436,19 @@
     "url": "https://tts.smartgic.io/matxa/status",
     "icon": "https://icons.duckduckgo.com/ip3/tts.smartgic.io.ico",
     "slug": "text-to-speech-matxa-smart-gic",
-    "status": "down",
-    "uptime": "98.89%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "98.89%",
+    "status": "up",
+    "uptime": "98.88%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "98.88%",
     "time": 55,
-    "timeDay": 85,
-    "timeWeek": 58,
-    "timeMonth": 53,
+    "timeDay": 69,
+    "timeWeek": 56,
+    "timeMonth": 52,
     "timeYear": 55,
     "dailyMinutesDown": {
-      "2024-12-05": 20,
+      "2024-12-05": 28,
       "2024-11-04": 604,
       "2024-11-03": 217,
       "2024-10-24": 27,
@@ -940,9 +938,9 @@
     "slug": "translator-nllb-smart-gic",
     "status": "down",
     "uptime": "97.39%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "97.05%",
     "time": 794,
     "timeDay": 448,
@@ -950,7 +948,8 @@
     "timeMonth": 530,
     "timeYear": 783,
     "dailyMinutesDown": {
-      "2024-12-05": 1,
+      "2024-12-06": 1,
+      "2024-12-05": 9,
       "2024-11-04": 761,
       "2024-11-03": 249,
       "2024-10-24": 35,
