@@ -1,7 +1,7 @@
 url: https://matxa.ziggyai.online/status
-status: up
-code: 200
-responseTime: 384
-lastUpdated: 2024-12-07T21:39:19.311Z
+status: down
+code: 502
+responseTime: 242
+lastUpdated: 2024-12-07T22:34:19.289Z
 startTime: 2024-08-26T20:45:35.622Z
 generator: Upptime <https://github.com/upptime/upptime>
