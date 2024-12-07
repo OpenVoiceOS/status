@@ -1,7 +1,7 @@
 url: https://citrinetstt.ziggyai.online/status
-status: up
-code: 200
-responseTime: 239
-lastUpdated: 2024-12-07T18:50:16.889Z
+status: down
+code: 502
+responseTime: 233
+lastUpdated: 2024-12-07T19:36:07.585Z
 startTime: 2024-08-26T20:45:39.444Z
 generator: Upptime <https://github.com/upptime/upptime>
