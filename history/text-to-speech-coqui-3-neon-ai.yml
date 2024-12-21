@@ -1,7 +1,7 @@
 url: https://coqui.neonaiservices.com/status
-status: up
-code: 200
-responseTime: 321
-lastUpdated: 2024-12-20T23:11:37.037Z
+status: down
+code: 503
+responseTime: 254
+lastUpdated: 2024-12-21T15:14:56.571Z
 startTime: 2024-02-22T15:33:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
