@@ -1,7 +1,7 @@
 url: https://fasterwhisper.ziggyai.online/status
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-21T23:13:23.455Z
+code: 502
+responseTime: 3367
+lastUpdated: 2024-12-22T23:12:56.292Z
 startTime: 2023-06-19T21:28:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
