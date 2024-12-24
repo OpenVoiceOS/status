@@ -1,7 +1,7 @@
 url: https://pipertts.ziggyai.online/status
-status: up
-code: 200
-responseTime: 220
-lastUpdated: 2024-12-24T22:40:17.203Z
+status: down
+code: 502
+responseTime: 295
+lastUpdated: 2024-12-24T22:49:23.277Z
 startTime: 2023-06-19T21:28:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
