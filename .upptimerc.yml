@@ -16,7 +16,7 @@ sites:
     url: https://matxa.ziggyai.online/status
     maxResponseTime: 60000    
     assignees:
-      - builderjer      
+      - builderjer
   - name: Text-to-Speech - Mimic - Smart'Gic
     url: https://tts.smartgic.io/mimic/status
     assignees:
@@ -36,7 +36,7 @@ sites:
   - name: Text-to-Speech - Matxa - Smart'Gic
     url: https://tts.smartgic.io/matxa/status
     assignees:
-      - goldyfruit      
+      - goldyfruit
   - name: Text-to-Speech - Coqui - Neon AI
     url: https://coqui.neonaibeta.com/status
     assignees:
@@ -48,7 +48,7 @@ sites:
   - name: Text-to-Speech - Coqui 3 - Neon AI
     url: https://coqui.neonaiservices.com/status
     assignees:
-      - NeonDaniel      
+      - NeonDaniel
   - name: Speech-to-Text - Faster Whisper - Ziggyai
     url: https://fasterwhisper.ziggyai.online/status
     maxResponseTime: 60000    
@@ -63,7 +63,7 @@ sites:
     url: https://ainastt.ziggyai.online/status
     maxResponseTime: 60000    
     assignees:
-      - builderjer      
+      - builderjer
   - name: Speech-to-Text - Faster Whisper - Smart'Gic
     url: https://stt.smartgic.io/fasterwhisper/status
     assignees:
@@ -71,11 +71,7 @@ sites:
   - name: Speech-to-Text - Faster Whisper - Neon AI
     url: https://whisper.neonaiservices.com/status
     assignees:
-      - NeonDaniel    
-  - name: Speech-to-Text - Chromium - Smart'Gic
-    url: https://stt.smartgic.io/chromium/status
-    assignees:
-      - goldyfruit
+      - NeonDaniel
   - name: Speech-to-Text - NeMo - Smart'Gic
     url: https://stt.smartgic.io/nemo/status
     assignees:
@@ -83,7 +79,7 @@ sites:
   - name: Speech-to-Text - AINA - Smart'Gic
     url: https://stt.smartgic.io/aina/status
     assignees:
-      - goldyfruit      
+      - goldyfruit
   - name: Speech-to-Text - Citrinet - Smart'Gic
     url: https://stt.smartgic.io/citrinet/status
     assignees:
@@ -95,13 +91,12 @@ sites:
   - name: Translator - NLLB - Smart'Gic
     url: https://translator.smartgic.io/nllb/status
     assignees:
-      - goldyfruit  
+      - goldyfruit
   - name: Translator - NLLB - Open Voice OS
     url: https://nllb.openvoiceos.org/status
     assignees:
       - j1nx
       - JarbasAl
-      - ChanceNCounter
   - name: Translator - NLLB - Ziggyai
     url: https://ovosnllb.ziggyai.online/status
     maxResponseTime: 60000
