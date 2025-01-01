@@ -1,7 +1,7 @@
 url: https://stt.smartgic.io/nemo/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-31T23:11:17.627Z
+status: up
+code: 200
+responseTime: 50
+lastUpdated: 2025-01-01T19:50:47.734Z
 startTime: 2023-11-23T16:08:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
