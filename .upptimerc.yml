@@ -21,10 +21,6 @@ sites:
     url: https://tts.smartgic.io/mimic/status
     assignees:
       - goldyfruit
-  - name: Text-to-Speech - Mimic3 - Smart'Gic
-    url: https://tts.smartgic.io/mimic3/status
-    assignees:
-      - goldyfruit
   - name: Text-to-Speech - Piper - Smart'Gic
     url: https://tts.smartgic.io/piper/status
     assignees:
