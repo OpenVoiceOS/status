@@ -68,10 +68,6 @@ sites:
     url: https://whisper.neonaiservices.com/status
     assignees:
       - NeonDaniel
-  - name: Speech-to-Text - NeMo - Smart'Gic
-    url: https://stt.smartgic.io/nemo/status
-    assignees:
-      - goldyfruit
   - name: Speech-to-Text - AINA - Smart'Gic
     url: https://stt.smartgic.io/aina/status
     assignees:
