@@ -1,7 +1,7 @@
 url: https://coqui.neonaialpha.com/status
-status: down
-code: 503
-responseTime: 63
-lastUpdated: 2025-01-24T22:10:25.984Z
+status: up
+code: 200
+responseTime: 268
+lastUpdated: 2025-01-24T22:28:55.753Z
 startTime: 2024-02-22T15:33:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
