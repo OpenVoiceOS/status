@@ -258,19 +258,19 @@
     "url": "https://tts.smartgic.io/mimic/status",
     "icon": "https://icons.duckduckgo.com/ip3/tts.smartgic.io.ico",
     "slug": "text-to-speech-mimic-smart-gic",
-    "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "92.90%",
-    "uptimeWeek": "97.27%",
-    "uptimeMonth": "98.24%",
-    "uptimeYear": "98.60%",
-    "time": 1758,
-    "timeDay": 2561,
+    "status": "down",
+    "uptime": "99.19%",
+    "uptimeDay": "92.97%",
+    "uptimeWeek": "97.26%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "98.61%",
+    "time": 1760,
+    "timeDay": 1596,
     "timeWeek": 2236,
     "timeMonth": 3640,
     "timeYear": 1985,
     "dailyMinutesDown": {
-      "2025-03-17": 100,
+      "2025-03-17": 101,
       "2025-03-16": 123,
       "2025-03-11": 36,
       "2025-03-10": 18,
@@ -320,8 +320,7 @@
       "2024-08-10": 66,
       "2024-07-23": 21,
       "2024-07-07": 19,
-      "2024-06-30": 245,
-      "2024-06-07": 18
+      "2024-06-30": 245
     }
   },
   {
