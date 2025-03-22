@@ -1117,18 +1117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vosk.tigregotico.pt.ico",
     "slug": "speech-to-text-vosk-tigre-gotico",
     "status": "down",
-    "uptime": "0.56%",
-    "uptimeDay": "0.56%",
-    "uptimeWeek": "0.56%",
-    "uptimeMonth": "0.56%",
-    "uptimeYear": "0.56%",
+    "uptime": "0.71%",
+    "uptimeDay": "0.71%",
+    "uptimeWeek": "0.71%",
+    "uptimeMonth": "0.71%",
+    "uptimeYear": "0.71%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-22": 1
+      "2025-03-22": 2
     }
   },
   {
