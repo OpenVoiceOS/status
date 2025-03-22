@@ -130,6 +130,14 @@ sites:
     maxResponseTime: 60000
     assignees:
       - builderjer
+  - name: Translator - NLLB - TigreGotico
+    url: https://nllb.tigregotico.pt/status
+    assignees:
+      - JarbasAl
+  - name: Translator - Google Translate - TigreGotico
+    url: https://google-translate.tigregotico.pt/status
+    assignees:
+      - JarbasAl
 
 status-website:
   theme: dark
