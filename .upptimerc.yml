@@ -100,6 +100,22 @@ sites:
     url: https://nemo.neonaialpha.com/status
     assignees:
       - NeonDaniel
+  - name: Speech-to-Text - Faster Whisper - TigreGotico
+    url: https://fasterwhisper.tigregotico.pt/status
+    assignees:
+      - JarbasAl
+  - name: Speech-to-Text - Citrinet - TigreGotico
+    url: https://citrinet.tigregotico.pt/status
+    assignees:
+      - JarbasAl
+  - name: Speech-to-Text - VOSK - TigreGotico
+    url: https://vosk.tigregotico.pt/status
+    assignees:
+      - JarbasAl
+  - name: Speech-to-Text - Chromium - TigreGotico
+    url: https://chromium.tigregotico.pt/status
+    assignees:
+      - JarbasAl
   - name: Translator - NLLB - Smart'Gic
     url: https://translator.smartgic.io/nllb/status
     assignees:
