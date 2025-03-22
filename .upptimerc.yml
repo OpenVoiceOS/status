@@ -33,6 +33,26 @@ sites:
     url: https://tts.smartgic.io/matxa/status
     assignees:
       - goldyfruit
+  - name: Text-to-Speech - Mimic - TigreGotico
+    url: https://mimic.tigregotico.pt/status
+    assignees:
+      - JarbasAl
+  - name: Text-to-Speech - NOS - TigreGotico
+    url: https://nos.tigregotico.pt/status
+    assignees:
+      - JarbasAl
+  - name: Text-to-Speech - Piper - TigreGotico
+    url: https://piper.tigregotico.pt/status
+    assignees:
+      - JarbasAl
+  - name: Text-to-Speech - Matxa - TigreGotico
+    url: https://matxa.tigregotico.pt/status
+    assignees:
+      - JarbasAl
+  - name: Text-to-Speech - SAM - TigreGotico
+    url: https://sam.tigregotico.pt/status
+    assignees:
+      - JarbasAl
   - name: Text-to-Speech - Coqui - Neon AI
     url: https://coqui.neonaibeta.com/status
     assignees:
