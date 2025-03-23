@@ -269,7 +269,7 @@
     "status": "up",
     "uptime": "99.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.11%",
+    "uptimeWeek": "98.24%",
     "uptimeMonth": "98.18%",
     "uptimeYear": "98.60%",
     "time": 1829,
@@ -339,7 +339,7 @@
     "status": "up",
     "uptime": "95.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.91%",
+    "uptimeWeek": "99.04%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "98.52%",
     "time": 142,
@@ -402,7 +402,7 @@
     "status": "up",
     "uptime": "97.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.92%",
+    "uptimeWeek": "99.04%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "98.62%",
     "time": 110,
@@ -456,7 +456,7 @@
     "status": "up",
     "uptime": "98.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.93%",
+    "uptimeWeek": "99.05%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "98.77%",
     "time": 83,
@@ -499,18 +499,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mimic.tigregotico.pt.ico",
     "slug": "text-to-speech-mimic-tigre-gotico",
     "status": "down",
-    "uptime": "96.76%",
-    "uptimeDay": "96.66%",
-    "uptimeWeek": "96.76%",
-    "uptimeMonth": "96.76%",
-    "uptimeYear": "96.76%",
+    "uptime": "95.49%",
+    "uptimeDay": "95.29%",
+    "uptimeWeek": "95.49%",
+    "uptimeMonth": "95.49%",
+    "uptimeYear": "95.49%",
     "time": 4459,
     "timeDay": 4452,
     "timeWeek": 4459,
     "timeMonth": 4459,
     "timeYear": 4459,
     "dailyMinutesDown": {
-      "2025-03-23": 48
+      "2025-03-23": 68
     }
   },
   {
@@ -519,18 +519,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nos.tigregotico.pt.ico",
     "slug": "text-to-speech-nos-tigre-gotico",
     "status": "down",
-    "uptime": "97.50%",
-    "uptimeDay": "97.43%",
-    "uptimeWeek": "97.50%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "97.50%",
+    "uptime": "96.22%",
+    "uptimeDay": "96.06%",
+    "uptimeWeek": "96.22%",
+    "uptimeMonth": "96.22%",
+    "uptimeYear": "96.22%",
     "time": 845,
     "timeDay": 818,
     "timeWeek": 845,
     "timeMonth": 845,
     "timeYear": 845,
     "dailyMinutesDown": {
-      "2025-03-23": 37
+      "2025-03-23": 56
     }
   },
   {
@@ -538,19 +538,19 @@
     "url": "https://piper.tigregotico.pt/status",
     "icon": "https://icons.duckduckgo.com/ip3/piper.tigregotico.pt.ico",
     "slug": "text-to-speech-piper-tigre-gotico",
-    "status": "up",
-    "uptime": "97.72%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "97.72%",
-    "uptimeMonth": "97.72%",
-    "uptimeYear": "97.72%",
+    "status": "down",
+    "uptime": "97.00%",
+    "uptimeDay": "96.87%",
+    "uptimeWeek": "97.00%",
+    "uptimeMonth": "97.00%",
+    "uptimeYear": "97.00%",
     "time": 756,
     "timeDay": 733,
     "timeWeek": 756,
     "timeMonth": 756,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2025-03-23": 34
+      "2025-03-23": 45
     }
   },
   {
@@ -558,19 +558,19 @@
     "url": "https://matxa.tigregotico.pt/status",
     "icon": "https://icons.duckduckgo.com/ip3/matxa.tigregotico.pt.ico",
     "slug": "text-to-speech-matxa-tigre-gotico",
-    "status": "up",
-    "uptime": "97.82%",
-    "uptimeDay": "97.76%",
-    "uptimeWeek": "97.82%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "97.82%",
+    "status": "down",
+    "uptime": "97.20%",
+    "uptimeDay": "97.07%",
+    "uptimeWeek": "97.20%",
+    "uptimeMonth": "97.20%",
+    "uptimeYear": "97.20%",
     "time": 3354,
     "timeDay": 4292,
     "timeWeek": 3354,
     "timeMonth": 3354,
     "timeYear": 3354,
     "dailyMinutesDown": {
-      "2025-03-23": 32
+      "2025-03-23": 42
     }
   },
   {
@@ -578,19 +578,19 @@
     "url": "https://sam.tigregotico.pt/status",
     "icon": "https://icons.duckduckgo.com/ip3/sam.tigregotico.pt.ico",
     "slug": "text-to-speech-sam-tigre-gotico",
-    "status": "up",
-    "uptime": "97.92%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "97.92%",
-    "uptimeYear": "97.92%",
+    "status": "down",
+    "uptime": "97.40%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "97.40%",
+    "uptimeMonth": "97.40%",
+    "uptimeYear": "97.40%",
     "time": 751,
     "timeDay": 745,
     "timeWeek": 751,
     "timeMonth": 751,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-03-23": 31
+      "2025-03-23": 39
     }
   },
   {
@@ -897,7 +897,7 @@
     "status": "up",
     "uptime": "97.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.12%",
+    "uptimeWeek": "99.23%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "98.39%",
     "time": 1350,
@@ -998,7 +998,7 @@
     "status": "up",
     "uptime": "98.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.31%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "98.79%",
     "time": 171,
@@ -1030,7 +1030,7 @@
     "status": "up",
     "uptime": "98.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.52%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "98.77%",
     "time": 93,
@@ -1091,19 +1091,19 @@
     "url": "https://fasterwhisper.tigregotico.pt/status",
     "icon": "https://icons.duckduckgo.com/ip3/fasterwhisper.tigregotico.pt.ico",
     "slug": "speech-to-text-faster-whisper-tigre-gotico",
-    "status": "up",
-    "uptime": "97.05%",
-    "uptimeDay": "97.05%",
-    "uptimeWeek": "97.05%",
-    "uptimeMonth": "97.05%",
-    "uptimeYear": "97.05%",
+    "status": "down",
+    "uptime": "96.39%",
+    "uptimeDay": "96.39%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "96.39%",
+    "uptimeYear": "96.39%",
     "time": 994,
     "timeDay": 994,
     "timeWeek": 994,
     "timeMonth": 994,
     "timeYear": 994,
     "dailyMinutesDown": {
-      "2025-03-23": 28
+      "2025-03-23": 35
     }
   },
   {
@@ -1111,18 +1111,20 @@
     "url": "https://citrinet.tigregotico.pt/status",
     "icon": "https://icons.duckduckgo.com/ip3/citrinet.tigregotico.pt.ico",
     "slug": "speech-to-text-citrinet-tigre-gotico",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
     "time": 553,
     "timeDay": 553,
     "timeWeek": 553,
     "timeMonth": 553,
     "timeYear": 553,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-23": 5
+    }
   },
   {
     "name": "Speech-to-Text - VOSK - TigreGotico",
@@ -1141,7 +1143,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-23": 831,
+      "2025-03-23": 851,
       "2025-03-22": 115
     }
   },
@@ -1150,19 +1152,19 @@
     "url": "https://chromium.tigregotico.pt/status",
     "icon": "https://icons.duckduckgo.com/ip3/chromium.tigregotico.pt.ico",
     "slug": "speech-to-text-chromium-tigre-gotico",
-    "status": "up",
-    "uptime": "96.43%",
-    "uptimeDay": "96.43%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "96.43%",
-    "uptimeYear": "96.43%",
+    "status": "down",
+    "uptime": "96.10%",
+    "uptimeDay": "96.10%",
+    "uptimeWeek": "96.10%",
+    "uptimeMonth": "96.10%",
+    "uptimeYear": "96.10%",
     "time": 589,
     "timeDay": 589,
     "timeWeek": 589,
     "timeMonth": 589,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2025-03-23": 34
+      "2025-03-23": 38
     }
   },
   {
@@ -1173,7 +1175,7 @@
     "status": "up",
     "uptime": "97.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.52%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "98.35%",
     "time": 1132,
@@ -1354,18 +1356,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nllb.tigregotico.pt.ico",
     "slug": "translator-nllb-tigre-gotico",
     "status": "down",
-    "uptime": "83.57%",
-    "uptimeDay": "83.57%",
-    "uptimeWeek": "83.57%",
-    "uptimeMonth": "83.57%",
-    "uptimeYear": "83.57%",
+    "uptime": "81.83%",
+    "uptimeDay": "81.83%",
+    "uptimeWeek": "81.83%",
+    "uptimeMonth": "81.83%",
+    "uptimeYear": "81.83%",
     "time": 652,
     "timeDay": 652,
     "timeWeek": 652,
     "timeMonth": 652,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2025-03-23": 152
+      "2025-03-23": 172
     }
   },
   {
@@ -1373,7 +1375,7 @@
     "url": "https://google-translate.tigregotico.pt/status",
     "icon": "https://icons.duckduckgo.com/ip3/google-translate.tigregotico.pt.ico",
     "slug": "translator-google-translate-tigre-gotico",
-    "status": "up",
+    "status": "down",
     "uptime": "96.68%",
     "uptimeDay": "96.68%",
     "uptimeWeek": "96.68%",
@@ -1385,7 +1387,7 @@
     "timeMonth": 619,
     "timeYear": 619,
     "dailyMinutesDown": {
-      "2025-03-23": 31
+      "2025-03-23": 32
     }
   }
 ]
