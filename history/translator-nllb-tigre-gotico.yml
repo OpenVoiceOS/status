@@ -1,7 +1,7 @@
 url: https://nllb.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 592
-lastUpdated: 2025-03-23T11:56:45.010Z
+status: down
+code: 502
+responseTime: 901
+lastUpdated: 2025-03-23T12:32:45.812Z
 startTime: 2025-03-22T22:24:33.300Z
 generator: Upptime <https://github.com/upptime/upptime>
