@@ -98,7 +98,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pipertts.ziggyai.online.ico",
     "slug": "text-to-speech-piper-ziggyai",
     "status": "up",
-    "uptime": "93.68%",
+    "uptime": "93.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.55%",
     "uptimeMonth": "97.79%",
@@ -269,12 +269,12 @@
     "status": "up",
     "uptime": "99.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.24%",
+    "uptimeWeek": "98.43%",
     "uptimeMonth": "98.18%",
     "uptimeYear": "98.60%",
     "time": 1829,
     "timeDay": 8132,
-    "timeWeek": 4461,
+    "timeWeek": 4429,
     "timeMonth": 4070,
     "timeYear": 2067,
     "dailyMinutesDown": {
@@ -339,12 +339,12 @@
     "status": "up",
     "uptime": "95.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.04%",
+    "uptimeWeek": "99.23%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "98.52%",
     "time": 142,
     "timeDay": 28,
-    "timeWeek": 783,
+    "timeWeek": 845,
     "timeMonth": 268,
     "timeYear": 101,
     "dailyMinutesDown": {
@@ -402,12 +402,12 @@
     "status": "up",
     "uptime": "97.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.04%",
+    "uptimeWeek": "99.23%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "98.62%",
     "time": 110,
     "timeDay": 27,
-    "timeWeek": 45,
+    "timeWeek": 46,
     "timeMonth": 99,
     "timeYear": 131,
     "dailyMinutesDown": {
@@ -456,12 +456,12 @@
     "status": "up",
     "uptime": "98.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.05%",
+    "uptimeWeek": "99.24%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "98.77%",
     "time": 83,
     "timeDay": 28,
-    "timeWeek": 45,
+    "timeWeek": 46,
     "timeMonth": 253,
     "timeYear": 83,
     "dailyMinutesDown": {
@@ -499,18 +499,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mimic.tigregotico.pt.ico",
     "slug": "text-to-speech-mimic-tigre-gotico",
     "status": "down",
-    "uptime": "95.49%",
-    "uptimeDay": "95.29%",
-    "uptimeWeek": "95.49%",
-    "uptimeMonth": "95.49%",
-    "uptimeYear": "95.49%",
+    "uptime": "93.66%",
+    "uptimeDay": "93.26%",
+    "uptimeWeek": "93.66%",
+    "uptimeMonth": "93.66%",
+    "uptimeYear": "93.66%",
     "time": 4459,
     "timeDay": 4452,
     "timeWeek": 4459,
     "timeMonth": 4459,
     "timeYear": 4459,
     "dailyMinutesDown": {
-      "2025-03-23": 68
+      "2025-03-23": 97
     }
   },
   {
@@ -519,18 +519,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nos.tigregotico.pt.ico",
     "slug": "text-to-speech-nos-tigre-gotico",
     "status": "down",
-    "uptime": "96.22%",
-    "uptimeDay": "96.06%",
-    "uptimeWeek": "96.22%",
-    "uptimeMonth": "96.22%",
-    "uptimeYear": "96.22%",
+    "uptime": "94.38%",
+    "uptimeDay": "94.02%",
+    "uptimeWeek": "94.38%",
+    "uptimeMonth": "94.38%",
+    "uptimeYear": "94.38%",
     "time": 845,
     "timeDay": 818,
     "timeWeek": 845,
     "timeMonth": 845,
     "timeYear": 845,
     "dailyMinutesDown": {
-      "2025-03-23": 56
+      "2025-03-23": 86
     }
   },
   {
@@ -539,18 +539,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/piper.tigregotico.pt.ico",
     "slug": "text-to-speech-piper-tigre-gotico",
     "status": "down",
-    "uptime": "97.00%",
-    "uptimeDay": "96.87%",
-    "uptimeWeek": "97.00%",
-    "uptimeMonth": "97.00%",
-    "uptimeYear": "97.00%",
+    "uptime": "95.11%",
+    "uptimeDay": "94.80%",
+    "uptimeWeek": "95.11%",
+    "uptimeMonth": "95.11%",
+    "uptimeYear": "95.11%",
     "time": 756,
     "timeDay": 733,
     "timeWeek": 756,
     "timeMonth": 756,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2025-03-23": 45
+      "2025-03-23": 75
     }
   },
   {
@@ -559,18 +559,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/matxa.tigregotico.pt.ico",
     "slug": "text-to-speech-matxa-tigre-gotico",
     "status": "down",
-    "uptime": "97.20%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "97.20%",
-    "uptimeMonth": "97.20%",
-    "uptimeYear": "97.20%",
+    "uptime": "95.31%",
+    "uptimeDay": "95.00%",
+    "uptimeWeek": "95.31%",
+    "uptimeMonth": "95.31%",
+    "uptimeYear": "95.31%",
     "time": 3354,
     "timeDay": 4292,
     "timeWeek": 3354,
     "timeMonth": 3354,
     "timeYear": 3354,
     "dailyMinutesDown": {
-      "2025-03-23": 42
+      "2025-03-23": 72
     }
   },
   {
@@ -579,18 +579,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sam.tigregotico.pt.ico",
     "slug": "text-to-speech-sam-tigre-gotico",
     "status": "down",
-    "uptime": "97.40%",
-    "uptimeDay": "97.28%",
-    "uptimeWeek": "97.40%",
-    "uptimeMonth": "97.40%",
-    "uptimeYear": "97.40%",
+    "uptime": "95.50%",
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "95.50%",
+    "uptimeMonth": "95.50%",
+    "uptimeYear": "95.50%",
     "time": 751,
     "timeDay": 745,
     "timeWeek": 751,
     "timeMonth": 751,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-03-23": 39
+      "2025-03-23": 69
     }
   },
   {
@@ -897,12 +897,12 @@
     "status": "up",
     "uptime": "97.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.23%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "98.39%",
     "time": 1350,
     "timeDay": 4810,
-    "timeWeek": 4524,
+    "timeWeek": 4294,
     "timeMonth": 3626,
     "timeYear": 1482,
     "dailyMinutesDown": {
@@ -998,12 +998,12 @@
     "status": "up",
     "uptime": "98.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.42%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "98.79%",
     "time": 171,
     "timeDay": 33,
-    "timeWeek": 52,
+    "timeWeek": 54,
     "timeMonth": 421,
     "timeYear": 171,
     "dailyMinutesDown": {
@@ -1030,12 +1030,12 @@
     "status": "up",
     "uptime": "98.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "98.77%",
     "time": 93,
     "timeDay": 31,
-    "timeWeek": 50,
+    "timeWeek": 51,
     "timeMonth": 69,
     "timeYear": 93,
     "dailyMinutesDown": {
@@ -1092,18 +1092,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fasterwhisper.tigregotico.pt.ico",
     "slug": "speech-to-text-faster-whisper-tigre-gotico",
     "status": "down",
-    "uptime": "96.39%",
-    "uptimeDay": "96.39%",
-    "uptimeWeek": "96.39%",
-    "uptimeMonth": "96.39%",
-    "uptimeYear": "96.39%",
+    "uptime": "93.49%",
+    "uptimeDay": "93.49%",
+    "uptimeWeek": "93.49%",
+    "uptimeMonth": "93.49%",
+    "uptimeYear": "93.49%",
     "time": 994,
     "timeDay": 994,
     "timeWeek": 994,
     "timeMonth": 994,
     "timeYear": 994,
     "dailyMinutesDown": {
-      "2025-03-23": 35
+      "2025-03-23": 65
     }
   },
   {
@@ -1112,18 +1112,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/citrinet.tigregotico.pt.ico",
     "slug": "speech-to-text-citrinet-tigre-gotico",
     "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
+    "uptime": "96.45%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "96.45%",
+    "uptimeMonth": "96.45%",
+    "uptimeYear": "96.45%",
     "time": 553,
     "timeDay": 553,
     "timeWeek": 553,
     "timeMonth": 553,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2025-03-23": 5
+      "2025-03-23": 35
     }
   },
   {
@@ -1143,7 +1143,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-23": 851,
+      "2025-03-23": 881,
       "2025-03-22": 115
     }
   },
@@ -1152,19 +1152,19 @@
     "url": "https://chromium.tigregotico.pt/status",
     "icon": "https://icons.duckduckgo.com/ip3/chromium.tigregotico.pt.ico",
     "slug": "speech-to-text-chromium-tigre-gotico",
-    "status": "down",
-    "uptime": "96.10%",
-    "uptimeDay": "96.10%",
-    "uptimeWeek": "96.10%",
-    "uptimeMonth": "96.10%",
-    "uptimeYear": "96.10%",
-    "time": 589,
-    "timeDay": 589,
-    "timeWeek": 589,
-    "timeMonth": 589,
-    "timeYear": 589,
+    "status": "up",
+    "uptime": "93.30%",
+    "uptimeDay": "93.30%",
+    "uptimeWeek": "93.30%",
+    "uptimeMonth": "93.30%",
+    "uptimeYear": "93.30%",
+    "time": 4080,
+    "timeDay": 4080,
+    "timeWeek": 4080,
+    "timeMonth": 4080,
+    "timeYear": 4080,
     "dailyMinutesDown": {
-      "2025-03-23": 38
+      "2025-03-23": 67
     }
   },
   {
@@ -1175,12 +1175,12 @@
     "status": "up",
     "uptime": "97.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "98.35%",
     "time": 1132,
     "timeDay": 5505,
-    "timeWeek": 3605,
+    "timeWeek": 3569,
     "timeMonth": 2527,
     "timeYear": 1250,
     "dailyMinutesDown": {
@@ -1356,18 +1356,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nllb.tigregotico.pt.ico",
     "slug": "translator-nllb-tigre-gotico",
     "status": "down",
-    "uptime": "81.83%",
-    "uptimeDay": "81.83%",
-    "uptimeWeek": "81.83%",
-    "uptimeMonth": "81.83%",
-    "uptimeYear": "81.83%",
+    "uptime": "79.31%",
+    "uptimeDay": "79.31%",
+    "uptimeWeek": "79.31%",
+    "uptimeMonth": "79.31%",
+    "uptimeYear": "79.31%",
     "time": 652,
     "timeDay": 652,
     "timeWeek": 652,
     "timeMonth": 652,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2025-03-23": 172
+      "2025-03-23": 202
     }
   },
   {
@@ -1375,19 +1375,19 @@
     "url": "https://google-translate.tigregotico.pt/status",
     "icon": "https://icons.duckduckgo.com/ip3/google-translate.tigregotico.pt.ico",
     "slug": "translator-google-translate-tigre-gotico",
-    "status": "down",
-    "uptime": "96.68%",
-    "uptimeDay": "96.68%",
-    "uptimeWeek": "96.68%",
-    "uptimeMonth": "96.68%",
-    "uptimeYear": "96.68%",
-    "time": 619,
-    "timeDay": 619,
-    "timeWeek": 619,
-    "timeMonth": 619,
-    "timeYear": 619,
+    "status": "up",
+    "uptime": "93.77%",
+    "uptimeDay": "93.77%",
+    "uptimeWeek": "93.77%",
+    "uptimeMonth": "93.77%",
+    "uptimeYear": "93.77%",
+    "time": 590,
+    "timeDay": 590,
+    "timeWeek": 590,
+    "timeMonth": 590,
+    "timeYear": 590,
     "dailyMinutesDown": {
-      "2025-03-23": 32
+      "2025-03-23": 61
     }
   }
 ]
