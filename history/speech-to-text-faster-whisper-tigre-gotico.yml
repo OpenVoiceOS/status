@@ -1,7 +1,7 @@
 url: https://fasterwhisper.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 570
-lastUpdated: 2025-03-24T02:36:04.745Z
+status: down
+code: 502
+responseTime: 846
+lastUpdated: 2025-03-24T12:35:51.550Z
 startTime: 2025-03-22T22:04:31.504Z
 generator: Upptime <https://github.com/upptime/upptime>
