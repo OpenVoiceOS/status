@@ -1,7 +1,7 @@
 url: https://citrinet.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 555
-lastUpdated: 2025-04-12T23:12:55.007Z
+status: down
+code: 502
+responseTime: 703
+lastUpdated: 2025-04-13T17:20:47.862Z
 startTime: 2025-03-22T22:04:32.584Z
 generator: Upptime <https://github.com/upptime/upptime>
