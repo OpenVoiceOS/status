@@ -1,7 +1,7 @@
 url: https://whisper.neonaiservices.com/status
-status: down
-code: 502
-responseTime: 3350
-lastUpdated: 2025-04-21T22:00:52.788Z
+status: up
+code: 200
+responseTime: 355
+lastUpdated: 2025-04-21T22:25:44.415Z
 startTime: 2024-06-06T15:02:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
