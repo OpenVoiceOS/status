@@ -1,7 +1,7 @@
 url: https://ainastt.ziggyai.online/status
-status: up
-code: 200
-responseTime: 1291
-lastUpdated: 2025-05-24T23:12:55.353Z
+status: down
+code: 502
+responseTime: 1600
+lastUpdated: 2025-05-25T19:25:59.220Z
 startTime: 2024-11-23T17:41:55.355Z
 generator: Upptime <https://github.com/upptime/upptime>
