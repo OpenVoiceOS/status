@@ -1,7 +1,7 @@
 url: https://tts.smartgic.io/piper/status
-status: down
-code: 503
-responseTime: 28
-lastUpdated: 2025-08-13T13:45:50.263Z
+status: up
+code: 200
+responseTime: 87
+lastUpdated: 2025-08-13T14:24:30.261Z
 startTime: 2023-06-29T03:31:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
