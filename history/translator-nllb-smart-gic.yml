@@ -1,7 +1,7 @@
 url: https://translator.smartgic.io/nllb/status
-status: up
-code: 200
-responseTime: 1803
-lastUpdated: 2025-08-23T03:49:24.176Z
+status: down
+code: 502
+responseTime: 27108
+lastUpdated: 2025-08-23T08:53:43.166Z
 startTime: 2023-08-22T20:02:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
