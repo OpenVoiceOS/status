@@ -1,7 +1,7 @@
 url: https://tts.smartgic.io/matxa/status
-status: down
-code: 502
-responseTime: 3124
-lastUpdated: 2025-09-12T07:22:16.463Z
+status: up
+code: 200
+responseTime: 79
+lastUpdated: 2025-09-12T15:31:18.065Z
 startTime: 2024-07-31T23:08:01.470Z
 generator: Upptime <https://github.com/upptime/upptime>
