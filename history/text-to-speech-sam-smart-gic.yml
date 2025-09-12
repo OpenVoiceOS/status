@@ -1,7 +1,7 @@
 url: https://tts.smartgic.io/sam/status
-status: up
-code: 200
-responseTime: 2476
-lastUpdated: 2025-09-12T11:13:39.412Z
+status: down
+code: 502
+responseTime: 3069
+lastUpdated: 2025-09-12T11:36:29.113Z
 startTime: 2023-08-09T23:13:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
