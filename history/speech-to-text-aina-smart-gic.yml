@@ -1,7 +1,7 @@
 url: https://stt.smartgic.io/aina/status
-status: down
-code: 503
-responseTime: 81
-lastUpdated: 2025-09-29T18:34:33.648Z
+status: up
+code: 200
+responseTime: 38
+lastUpdated: 2025-09-29T19:19:45.313Z
 startTime: 2024-11-23T17:41:57.445Z
 generator: Upptime <https://github.com/upptime/upptime>
