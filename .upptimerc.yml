@@ -2,11 +2,6 @@ owner: openvoiceos
 repo: status
 
 sites:
-  - name: Text-to-Speech - Mimic3 - Ziggyai
-    url: https://mimic3.ziggyai.online/status
-    maxResponseTime: 60000
-    assignees:
-      - builderjer
   - name: Text-to-Speech - Piper - Ziggyai
     url: https://pipertts.ziggyai.online/status
     maxResponseTime: 60000    
