@@ -116,11 +116,6 @@ sites:
     url: https://translator.smartgic.io/nllb/status
     assignees:
       - goldyfruit
-  - name: Translator - NLLB - Open Voice OS
-    url: https://nllb.openvoiceos.org/status
-    assignees:
-      - j1nx
-      - JarbasAl
   - name: Translator - NLLB - Ziggyai
     url: https://ovosnllb.ziggyai.online/status
     maxResponseTime: 60000
