@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pipertts.ziggyai.online.ico",
     "slug": "text-to-speech-piper-ziggyai",
     "status": "up",
-    "uptime": "94.05%",
+    "uptime": "94.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.63%",
-    "uptimeYear": "86.06%",
+    "uptimeYear": "86.08%",
     "time": 551,
     "timeDay": 237,
     "timeWeek": 265,
@@ -117,8 +117,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-12-13": 1440,
-      "2024-12-12": 1440
+      "2024-12-13": 1440
     }
   },
   {
@@ -131,7 +130,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.75%",
-    "uptimeYear": "86.09%",
+    "uptimeYear": "86.12%",
     "time": 465,
     "timeDay": 264,
     "timeWeek": 232,
@@ -235,8 +234,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-12-13": 1440,
-      "2024-12-12": 1440
+      "2024-12-13": 1440
     }
   },
   {
@@ -853,12 +851,12 @@
     "status": "up",
     "uptime": "93.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.96%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "70.30%",
     "uptimeYear": "93.88%",
     "time": 790,
     "timeDay": 948,
-    "timeWeek": 774,
+    "timeWeek": 797,
     "timeMonth": 767,
     "timeYear": 790,
     "dailyMinutesDown": {
@@ -983,7 +981,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.75%",
-    "uptimeYear": "85.99%",
+    "uptimeYear": "86.02%",
     "time": 542,
     "timeDay": 350,
     "timeWeek": 269,
@@ -1092,8 +1090,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-12-13": 1440,
-      "2024-12-12": 1440
+      "2024-12-13": 1440
     }
   },
   {
@@ -1106,7 +1103,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.62%",
-    "uptimeYear": "86.04%",
+    "uptimeYear": "86.07%",
     "time": 477,
     "timeDay": 294,
     "timeWeek": 262,
@@ -1212,8 +1209,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-12-13": 1440,
-      "2024-12-12": 1440
+      "2024-12-13": 1440
     }
   },
   {
@@ -1226,7 +1222,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.64%",
-    "uptimeYear": "86.08%",
+    "uptimeYear": "86.11%",
     "time": 530,
     "timeDay": 237,
     "timeWeek": 272,
@@ -1328,8 +1324,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-12-13": 1440,
-      "2024-12-12": 1440
+      "2024-12-13": 1440
     }
   },
   {
@@ -1416,7 +1411,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/whisper.neonaiservices.com.ico",
     "slug": "speech-to-text-faster-whisper-neon-ai",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -1442,7 +1437,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/stt.smartgic.io.ico",
     "slug": "speech-to-text-aina-smart-gic",
     "status": "up",
-    "uptime": "94.24%",
+    "uptime": "94.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.00%",
     "uptimeMonth": "99.47%",
@@ -1715,11 +1710,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/citrinet.tigregotico.pt.ico",
     "slug": "speech-to-text-citrinet-tigre-gotico",
     "status": "up",
-    "uptime": "93.89%",
+    "uptime": "93.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "70.37%",
-    "uptimeYear": "93.89%",
+    "uptimeYear": "93.90%",
     "time": 858,
     "timeDay": 634,
     "timeWeek": 700,
@@ -1775,11 +1770,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/chromium.tigregotico.pt.ico",
     "slug": "speech-to-text-chromium-tigre-gotico",
     "status": "up",
-    "uptime": "93.92%",
+    "uptime": "93.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "70.38%",
-    "uptimeYear": "93.92%",
+    "uptimeYear": "93.93%",
     "time": 827,
     "timeDay": 728,
     "timeWeek": 792,
@@ -1950,7 +1945,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.76%",
-    "uptimeYear": "90.16%",
+    "uptimeYear": "90.19%",
     "time": 369,
     "timeDay": 233,
     "timeWeek": 240,
@@ -2038,8 +2033,7 @@
       "2025-01-11": 202,
       "2025-01-02": 28,
       "2024-12-27": 56,
-      "2024-12-13": 283,
-      "2024-12-12": 861
+      "2024-12-13": 283
     }
   },
   {
@@ -2049,8 +2043,8 @@
     "slug": "translator-nllb-tigre-gotico",
     "status": "up",
     "uptime": "89.02%",
-    "uptimeDay": "2.37%",
-    "uptimeWeek": "0.34%",
+    "uptimeDay": "12.05%",
+    "uptimeWeek": "1.72%",
     "uptimeMonth": "46.78%",
     "uptimeYear": "89.02%",
     "time": 780,
