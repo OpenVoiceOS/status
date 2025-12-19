@@ -6,8 +6,8 @@
     "slug": "text-to-speech-piper-ziggyai",
     "status": "down",
     "uptime": "94.07%",
-    "uptimeDay": "71.19%",
-    "uptimeWeek": "95.88%",
+    "uptimeDay": "70.63%",
+    "uptimeWeek": "95.80%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "87.90%",
     "time": 550,
@@ -16,7 +16,8 @@
     "timeMonth": 265,
     "timeYear": 562,
     "dailyMinutesDown": {
-      "2025-12-18": 415,
+      "2025-12-19": 2,
+      "2025-12-18": 421,
       "2025-11-29": 24,
       "2025-11-19": 133,
       "2025-11-18": 445,
@@ -111,8 +112,7 @@
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
-      "2024-12-20": 1440,
-      "2024-12-19": 1440
+      "2024-12-20": 1440
     }
   },
   {
@@ -121,9 +121,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/matxa.ziggyai.online.ico",
     "slug": "text-to-speech-matxa-ziggyai",
     "status": "down",
-    "uptime": "88.92%",
-    "uptimeDay": "71.22%",
-    "uptimeWeek": "95.89%",
+    "uptime": "88.91%",
+    "uptimeDay": "70.66%",
+    "uptimeWeek": "95.81%",
     "uptimeMonth": "98.81%",
     "uptimeYear": "87.93%",
     "time": 451,
@@ -132,7 +132,8 @@
     "timeMonth": 249,
     "timeYear": 449,
     "dailyMinutesDown": {
-      "2025-12-18": 414,
+      "2025-12-19": 2,
+      "2025-12-18": 420,
       "2025-11-19": 102,
       "2025-11-18": 444,
       "2025-10-20": 17,
@@ -223,8 +224,7 @@
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
-      "2024-12-20": 1440,
-      "2024-12-19": 1440
+      "2024-12-20": 1440
     }
   },
   {
@@ -232,19 +232,19 @@
     "url": "https://tts.smartgic.io/mimic/status",
     "icon": "https://icons.duckduckgo.com/ip3/tts.smartgic.io.ico",
     "slug": "text-to-speech-mimic-smart-gic",
-    "status": "down",
+    "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "94.64%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "98.06%",
+    "uptimeDay": "94.26%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "98.05%",
     "uptimeYear": "98.64%",
-    "time": 3349,
-    "timeDay": 5232,
-    "timeWeek": 4238,
-    "timeMonth": 3542,
-    "timeYear": 3673,
+    "time": 3351,
+    "timeDay": 4584,
+    "timeWeek": 4093,
+    "timeMonth": 3523,
+    "timeYear": 3672,
     "dailyMinutesDown": {
-      "2025-12-18": 77,
+      "2025-12-18": 83,
       "2025-12-11": 27,
       "2025-12-07": 204,
       "2025-12-03": 401,
@@ -978,8 +978,8 @@
     "slug": "speech-to-text-faster-whisper-ziggyai",
     "status": "down",
     "uptime": "93.32%",
-    "uptimeDay": "71.24%",
-    "uptimeWeek": "95.89%",
+    "uptimeDay": "70.68%",
+    "uptimeWeek": "95.81%",
     "uptimeMonth": "98.81%",
     "uptimeYear": "87.83%",
     "time": 523,
@@ -988,7 +988,8 @@
     "timeMonth": 338,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2025-12-18": 414,
+      "2025-12-19": 3,
+      "2025-12-18": 419,
       "2025-11-19": 103,
       "2025-11-18": 443,
       "2025-11-02": 75,
@@ -1084,8 +1085,7 @@
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
-      "2024-12-20": 1440,
-      "2024-12-19": 1440
+      "2024-12-20": 1440
     }
   },
   {
@@ -1095,8 +1095,8 @@
     "slug": "speech-to-text-citrinet-ziggyai",
     "status": "down",
     "uptime": "88.88%",
-    "uptimeDay": "71.27%",
-    "uptimeWeek": "95.90%",
+    "uptimeDay": "70.71%",
+    "uptimeWeek": "95.82%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "87.88%",
     "time": 477,
@@ -1105,7 +1105,8 @@
     "timeMonth": 245,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2025-12-18": 414,
+      "2025-12-19": 3,
+      "2025-12-18": 419,
       "2025-12-01": 26,
       "2025-11-30": 33,
       "2025-11-19": 103,
@@ -1198,8 +1199,7 @@
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
-      "2024-12-20": 1440,
-      "2024-12-19": 1440
+      "2024-12-20": 1440
     }
   },
   {
@@ -1209,8 +1209,8 @@
     "slug": "speech-to-text-aina-ziggyai",
     "status": "down",
     "uptime": "86.81%",
-    "uptimeDay": "71.30%",
-    "uptimeWeek": "95.90%",
+    "uptimeDay": "70.74%",
+    "uptimeWeek": "95.82%",
     "uptimeMonth": "98.76%",
     "uptimeYear": "87.92%",
     "time": 527,
@@ -1219,7 +1219,8 @@
     "timeMonth": 298,
     "timeYear": 489,
     "dailyMinutesDown": {
-      "2025-12-18": 413,
+      "2025-12-19": 3,
+      "2025-12-18": 418,
       "2025-11-19": 126,
       "2025-11-18": 442,
       "2025-11-15": 26,
@@ -1308,8 +1309,7 @@
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
-      "2024-12-20": 1440,
-      "2024-12-19": 1440
+      "2024-12-20": 1440
     }
   },
   {
@@ -1929,8 +1929,8 @@
     "slug": "translator-nllb-ziggyai",
     "status": "down",
     "uptime": "95.05%",
-    "uptimeDay": "71.34%",
-    "uptimeWeek": "95.91%",
+    "uptimeDay": "70.77%",
+    "uptimeWeek": "95.82%",
     "uptimeMonth": "98.81%",
     "uptimeYear": "90.30%",
     "time": 369,
@@ -1939,7 +1939,8 @@
     "timeMonth": 289,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2025-12-18": 413,
+      "2025-12-19": 4,
+      "2025-12-18": 417,
       "2025-11-19": 104,
       "2025-11-18": 441,
       "2025-10-19": 782,
