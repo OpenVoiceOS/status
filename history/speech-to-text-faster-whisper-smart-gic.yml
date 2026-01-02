@@ -1,7 +1,7 @@
 url: https://stt.smartgic.io/fasterwhisper/status
-status: down
-code: 502
-responseTime: 4385
-lastUpdated: 2026-01-02T19:21:32.266Z
+status: up
+code: 200
+responseTime: 8803
+lastUpdated: 2026-01-02T19:43:08.444Z
 startTime: 2023-11-22T23:10:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
