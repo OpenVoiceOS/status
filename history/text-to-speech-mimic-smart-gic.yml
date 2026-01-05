@@ -1,7 +1,7 @@
 url: https://tts.smartgic.io/mimic/status
-status: down
-code: 502
-responseTime: 7033
-lastUpdated: 2026-01-05T20:55:55.281Z
+status: up
+code: 200
+responseTime: 3628
+lastUpdated: 2026-01-05T21:17:10.272Z
 startTime: 2023-06-30T22:31:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
