@@ -1,7 +1,7 @@
 url: https://google-translate.tigregotico.pt/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-23T13:57:27.410Z
+status: up
+code: 200
+responseTime: 1006
+lastUpdated: 2026-02-23T14:40:24.982Z
 startTime: 2025-03-22T22:24:34.225Z
 generator: Upptime <https://github.com/upptime/upptime>
