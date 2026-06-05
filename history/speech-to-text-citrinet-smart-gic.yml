@@ -1,7 +1,7 @@
 url: https://stt.smartgic.io/citrinet/status
-status: down
-code: 523
-responseTime: 171
-lastUpdated: 2026-06-05T00:26:06.090Z
+status: up
+code: 200
+responseTime: 65
+lastUpdated: 2026-06-05T12:08:42.739Z
 startTime: 2024-08-26T20:45:42.162Z
 generator: Upptime <https://github.com/upptime/upptime>
