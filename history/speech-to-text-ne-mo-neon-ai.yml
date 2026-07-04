@@ -1,7 +1,7 @@
 url: https://nemo.neonaialpha.com/status
-status: up
-code: 200
-responseTime: 252
-lastUpdated: 2026-07-04T00:39:23.689Z
+status: down
+code: 503
+responseTime: 56
+lastUpdated: 2026-07-04T15:40:17.365Z
 startTime: 2024-02-22T15:33:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
